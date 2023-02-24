@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(rgb(18, 170, 190),grey,rgb(23, 16, 148),rgb(28, 28, 62));
+}
+
+.dj{
+    float :left;
+
+}
+
+.d2j{
+    float :right;
+}
+
+canvas{
+border: 5px;
+border-style:groove ;
+border-color: blue;
+}
+
+.div_img{
+    width :200px;
+    border-radius: 150px;
+}
+
+.heading{
+    font-size: 23px;
+    width :100%;
+    margin :0px,
+}
+
+#speedup{
+    font-size: 23px;
+    margin :15px;
+}
+
+#volume{
+    font-size: 23px;
+    margin :15px;
+}
